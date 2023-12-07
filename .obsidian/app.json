@@ -1,0 +1,16 @@
+{
+  "spellcheck": true,
+  "rightToLeft": false,
+  "strictLineBreaks": false,
+  "lineWrap": true,
+  "defaultViewMode": "source",
+  "spellcheckDictionary": [],
+  "showFrontmatter": false,
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheckLanguages": null,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showInlineTitle": true
+}

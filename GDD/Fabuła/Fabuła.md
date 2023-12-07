@@ -1,4 +1,3 @@
-# Fabuła
 ### [<-- GDD](/GDD/GDD.md)
 
 ---

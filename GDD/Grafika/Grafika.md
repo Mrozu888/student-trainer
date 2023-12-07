@@ -1,4 +1,3 @@
-# Grafika
 ### [<-- GDD](/GDD/GDD.md)
 
 ---

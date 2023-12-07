@@ -1,4 +1,3 @@
-# Rozgrywka
 ### [<-- GDD](/GDD/GDD.md)
 
 ---

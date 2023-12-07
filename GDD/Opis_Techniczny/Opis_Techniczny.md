@@ -1,4 +1,3 @@
-# Opis Techniczny
 ### [<-- GDD](/GDD/GDD.md)
 
 ---

@@ -1,4 +1,3 @@
-# Nowe Pomysły
 ### [<-- GDD](/GDD/GDD.md)
 
 ---

@@ -1,4 +1,3 @@
-# Muzyka
 ### [<-- GDD](/GDD/GDD.md)
 
 ---

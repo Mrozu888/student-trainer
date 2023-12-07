@@ -1,4 +1,3 @@
-# Interfejs Użytkownika
 ### [<-- GDD](/GDD/GDD.md)
 
 ---

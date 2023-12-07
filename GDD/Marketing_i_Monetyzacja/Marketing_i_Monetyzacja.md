@@ -1,4 +1,3 @@
-# Marketing i Monetyzacja
 ### [<-- GDD](/GDD/GDD.md)
 
 ---

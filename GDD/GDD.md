@@ -1,4 +1,4 @@
-# GDD - "Nazwa Gry"
+# Student Trainer
 
 ### [<-- ReadMe](/README.md)
 

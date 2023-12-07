@@ -1,4 +1,3 @@
-# Postacie i obiekty
 ### [<-- GDD](/GDD/GDD.md)
 
 ---
