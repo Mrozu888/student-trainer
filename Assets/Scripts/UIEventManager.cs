@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class UIEventManager : MonoBehaviour
 {
-    private bool play = false, settings = false, quit = false;
+    private bool play = false, settings = false, quit = false, backFromSettings = false;
     
     public delegate void ClickPlayAction();
     public static event ClickPlayAction OnClickedPlay;
@@ -14,6 +14,8 @@ public class UIEventManager : MonoBehaviour
     public static event ClickSettingsAction OnClickedSettings;
     public delegate void ClickQuitAction();
     public static event ClickQuitAction OnClickedQuit;
+    public delegate void ClickBackAction();
+    public static event ClickBackAction OnClickedBack;
 
     void Update()
     {
@@ -35,7 +37,19 @@ public class UIEventManager : MonoBehaviour
                 OnClickedQuit();
             quit = false;
         }
+
+        if (backFromSettings)
+        {
+            if (OnClickedBack != null)
+                OnClickedBack();
+            backFromSettings = false;
+        }
         
+    }
+
+    public void BackFromSettingsTrigger()
+    {
+        backFromSettings = true;
     }
 
     public void PlayTrigger()
